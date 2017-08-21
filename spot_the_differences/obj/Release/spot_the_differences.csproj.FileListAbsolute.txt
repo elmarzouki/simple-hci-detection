@@ -1,0 +1,16 @@
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\spot_the_differences.exe.config
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\spot_the_differences.exe
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\spot_the_differences.pdb
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\Emgu.CV.dll
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\Emgu.CV.UI.dll
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\Emgu.Util.dll
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\obj\Release\spot_the_differences.csprojResolveAssemblyReference.cache
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\obj\Release\spot_the_differences.shape_detection.resources
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\obj\Release\spot_the_differences.start.resources
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\obj\Release\spot_the_differences.Properties.Resources.resources
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\obj\Release\spot_the_differences.csproj.GenerateResource.Cache
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\obj\Release\spot_the_differences.exe
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\obj\Release\spot_the_differences.pdb
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\Emgu.CV.UI.GL.dll
+E:\FCIH\3rd\2nd\HCI\task\spot_the_differences\spot_the_differences\bin\Release\ZedGraph.dll
